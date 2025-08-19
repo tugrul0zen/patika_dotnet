@@ -1,0 +1,14 @@
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\bin\Debug\net9.0\console_project.exe
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\bin\Debug\net9.0\console_project.deps.json
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\bin\Debug\net9.0\console_project.runtimeconfig.json
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\bin\Debug\net9.0\console_project.dll
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\bin\Debug\net9.0\console_project.pdb
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.AssemblyInfoInputs.cache
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.AssemblyInfo.cs
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.csproj.CoreCompileInputs.cache
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.dll
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\refint\console_project.dll
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.pdb
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\console_project.genruntimeconfig.cache
+c:\Users\Tuğrul\projects\patika_dotnet\csharp\console_project\obj\Debug\net9.0\ref\console_project.dll
