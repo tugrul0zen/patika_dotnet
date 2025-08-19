@@ -11,4 +11,4 @@
         0
 
 
-Örnek: root 5'tir. root'un sağı >5 bulunur. Solunda <5 bulunur.
+root 5'tir. root'un sağı >5 bulunur. Solunda <5 bulunur.
